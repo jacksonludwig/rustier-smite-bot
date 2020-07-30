@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 smite_api_library = { path = "../smite_api_libary" }
+reqwest = "0.10.7"

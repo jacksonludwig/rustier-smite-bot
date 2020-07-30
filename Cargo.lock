@@ -691,6 +691,7 @@ dependencies = [
 name = "rustier_smite_bot"
 version = "0.1.0"
 dependencies = [
+ "reqwest",
  "smite_api_library",
 ]
 
