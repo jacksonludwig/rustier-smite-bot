@@ -6,7 +6,9 @@ use smite_api_library::json;
 // then get a new session id.
 
 fn main() {
-    let session = json::make_session().unwrap();
+    let session = json::make_session().unwrap_or_else(|err| {
+        panic!("There was an error creating the session: {:?}", err);
+    });
     let req = json::create_link(
         "getplayer",
         &session.session_id,
