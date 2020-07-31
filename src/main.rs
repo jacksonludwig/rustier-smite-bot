@@ -1,13 +1,11 @@
 use smite_api_library::json;
 use smite_api_library::queries::QueryBuilder;
 
-// TODO:
-// Keep track of the time of each new query attempt,
-// if it has been more than 15 min since last request,
-// then get a new session id.
-
 fn main() {
-    test_loop();
+    // test_loop();
+    let session = json::make_session().unwrap();
+    let builder = QueryBuilder::new(session.session_id);
+    let data = builder.get_gods();
 }
 
 fn test_loop() {
@@ -29,7 +27,7 @@ fn test_loop() {
             .read_line(&mut answer)
             .expect("Failed to read line");
 
-        let json_data = builder.get_player("SwiggedySwoody").unwrap();
+        let json_data = builder.get_player(&answer).unwrap();
 
         println!("{}", json_data);
     }
