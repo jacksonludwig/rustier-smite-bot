@@ -692,6 +692,7 @@ name = "rustier_smite_bot"
 version = "0.1.0"
 dependencies = [
  "reqwest",
+ "serde_json",
  "smite_api_library",
 ]
 
