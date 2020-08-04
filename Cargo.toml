@@ -10,3 +10,5 @@ edition = "2018"
 smite_api_library = { path = "../smite_api_libary" }
 reqwest = "0.10.7"
 serde_json = "1.0.57"
+serenity = "0.8.6"
+soup = "0.5.0"
