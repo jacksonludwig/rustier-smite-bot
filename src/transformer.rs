@@ -4,7 +4,7 @@ use smite_api_library::queries::QueryBuilder;
 
 const GOD_JSON_DIR: &str = "resources/gods.json";
 
-/// Download the god data.
+/// Download the god data into a .json file for use with other functions.
 pub fn store_god_json(builder: &QueryBuilder) -> Result<()> {
     // TODO: Handle this
     let data = builder.get_gods().unwrap();
