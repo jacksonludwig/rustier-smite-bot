@@ -8,7 +8,7 @@ pub fn fetch_html(link: &str) -> String {
     String::from("placeholder")
 }
 
-pub fn get_god_build_list(link: &str) -> Result<Vec<String>, reqwest::Error> {
+pub fn get_god_build_list(link: &str) -> Vec<String> {
     let page = fetch_html(link);
     let soup = Soup::new(&page);
     let build_cards = soup
@@ -17,5 +17,5 @@ pub fn get_god_build_list(link: &str) -> Result<Vec<String>, reqwest::Error> {
         .map(|a| a.display())
         .collect::<Vec<String>>();
 
-    Ok(build_cards)
+    build_cards
 }

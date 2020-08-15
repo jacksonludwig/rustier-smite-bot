@@ -1,5 +1,4 @@
 use smite_api_library::json;
-use smite_api_library::queries::QueryBuilder;
 
 mod scraper;
 mod transformer;
@@ -9,5 +8,5 @@ fn main() {
     println!("{}", discord_token);
 
     let page = scraper::get_god_build_list("https://smitesource.com/gods/1699");
-    println!("{:?}", page.unwrap());
+    println!("{:?}", page);
 }
