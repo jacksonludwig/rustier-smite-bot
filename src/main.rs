@@ -3,10 +3,11 @@ use smite_api_library::json;
 mod scraper;
 mod transformer;
 
-fn main() {
-    let discord_token = json::read_secret("disc_token");
-    println!("{}", discord_token);
-
-    let page = scraper::get_god_build_list("https://smitesource.com/gods/1699");
-    println!("{:?}", page);
+#[tokio::main]
+async fn main() {
+    let page = scraper::get_god_build_list("https://smitesource.com/gods/1699").await;
+    println!(
+        "{}\n{}\n{}",
+        page[0].name, page[0].description, page[0].link
+    );
 }
