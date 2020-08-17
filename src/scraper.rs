@@ -1,11 +1,24 @@
 use fantoccini::Client;
+use serde_json::json;
 use soup::prelude::*;
 use soup::Soup;
+use webdriver::capabilities::Capabilities;
 
 const BASE_LINK: &str = "https://smitesource.com";
+const HOST_LINK: &str = "http://localhost:4444";
 
+/// Connect to the geckodriver process and enable headless mode.
+pub async fn build_webdriver(link: &str) -> Result<Client, fantoccini::error::NewSessionError> {
+    let mut cap = Capabilities::new();
+    let args = json!({"args": ["-headless"]});
+    cap.insert("moz:firefoxOptions".to_string(), args);
+    let client = Client::with_capabilities(link, cap).await?;
+    Ok(client)
+}
+
+/// Pull the HTML from a webpage using the headless driver.
 pub async fn fetch_html(link: &str) -> Result<String, fantoccini::error::CmdError> {
-    let mut c = Client::new("http://localhost:4444")
+    let mut c = build_webdriver(HOST_LINK)
         .await
         .expect("failed to connect to WebDriver");
     c.goto(link).await?;
