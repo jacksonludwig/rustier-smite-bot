@@ -17,12 +17,15 @@ async fn build_webdriver(link: &str) -> Result<Client, fantoccini::error::NewSes
 }
 
 /// Pull the HTML from a webpage using the headless driver.
-async fn fetch_html(link: &str) -> Result<String, fantoccini::error::CmdError> {
+async fn fetch_html(
+    link: &str,
+    wait_for_item: &str,
+) -> Result<String, fantoccini::error::CmdError> {
     let mut c = build_webdriver(HOST_LINK)
         .await
         .expect("Failed to connect to geckodriver: Geckodriver should be running.");
     c.goto(link).await?;
-    c.wait_for_find(fantoccini::Locator::Css(".build-card-list"))
+    c.wait_for_find(fantoccini::Locator::Css(wait_for_item))
         .await?;
     let page_data = c.source().await?;
 
@@ -37,9 +40,12 @@ pub struct BuildCard {
     pub link: String,
 }
 
-/// Get a list of god build cards.
-pub async fn get_god_build_list(link: &str) -> Result<Vec<BuildCard>, fantoccini::error::CmdError> {
-    let page = fetch_html(link).await?;
+/// Get a list of god build cards for a god given the link to their smite source page.
+/// Links look something like: https://smitesource.com/gods/3585
+pub async fn get_god_build_cards(
+    link: &str,
+) -> Result<Vec<BuildCard>, fantoccini::error::CmdError> {
+    let page = fetch_html(link, ".build-card-list").await?;
     let soup = Soup::new(&page);
 
     let mut build_cards: Vec<BuildCard> = vec![];
@@ -67,4 +73,39 @@ pub async fn get_god_build_list(link: &str) -> Result<Vec<BuildCard>, fantoccini
     }
 
     Ok(build_cards)
+}
+
+/// Get a given build type given a god's build card.
+async fn get_god_build(
+    card: BuildCard,
+    class: &str,
+) -> Result<Vec<String>, fantoccini::error::CmdError> {
+    let link = card.link;
+    let page = fetch_html(&link, ".build-item").await?;
+    let soup = Soup::new(&page);
+
+    let items = soup
+        .class(class)
+        .find()
+        .expect("Missing build tag")
+        .tag("p")
+        .find_all()
+        .map(|i| i.text())
+        .collect::<Vec<String>>();
+
+    Ok(items)
+}
+
+/// Get a god's starter build given their build card.
+pub async fn get_starter_god_build(
+    card: BuildCard,
+) -> Result<Vec<String>, fantoccini::error::CmdError> {
+    get_god_build(card, "starter").await
+}
+
+/// Get a god's final build given their build card.
+pub async fn get_final_god_build(
+    card: BuildCard,
+) -> Result<Vec<String>, fantoccini::error::CmdError> {
+    get_god_build(card, "build-items").await
 }
