@@ -10,8 +10,7 @@ const HOST_LINK: &str = "http://localhost:4444";
 /// Connect to the geckodriver process and enable headless mode.
 async fn build_webdriver(link: &str) -> Result<Client, fantoccini::error::NewSessionError> {
     let mut cap = Capabilities::new();
-    // let args = json!({"args": ["-headless"]});
-    let args = json!({"args": [""]});
+    let args = json!({"args": ["-headless"]});
     cap.insert("moz:firefoxOptions".to_string(), args);
     let client = Client::with_capabilities(link, cap).await?;
     Ok(client)
