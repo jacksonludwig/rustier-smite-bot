@@ -4,6 +4,7 @@ use smite_api_library::json;
 use smite_api_library::queries::QueryBuilder;
 
 const GOD_JSON_DIR: &str = "resources/gods.json";
+const BASE_LINK: &str = "https://smitesource.com/gods/";
 
 /// Download the god data into a .json file for use with other functions.
 pub fn store_god_json(builder: &QueryBuilder) -> Result<(), reqwest::Error> {
@@ -39,4 +40,10 @@ pub fn make_god_list() -> Vec<God> {
         god_tuples.push(tuple);
     }
     god_tuples
+}
+
+pub fn make_god_links(gods: Vec<God>) -> Vec<String> {
+    gods.iter()
+        .map(|g| format!("{}{}", BASE_LINK, g.id))
+        .collect()
 }
