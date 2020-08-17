@@ -8,7 +8,7 @@ const BASE_LINK: &str = "https://smitesource.com";
 const HOST_LINK: &str = "http://localhost:4444";
 
 /// Connect to the geckodriver process and enable headless mode.
-pub async fn build_webdriver(link: &str) -> Result<Client, fantoccini::error::NewSessionError> {
+async fn build_webdriver(link: &str) -> Result<Client, fantoccini::error::NewSessionError> {
     let mut cap = Capabilities::new();
     let args = json!({"args": ["-headless"]});
     cap.insert("moz:firefoxOptions".to_string(), args);
@@ -17,10 +17,10 @@ pub async fn build_webdriver(link: &str) -> Result<Client, fantoccini::error::Ne
 }
 
 /// Pull the HTML from a webpage using the headless driver.
-pub async fn fetch_html(link: &str) -> Result<String, fantoccini::error::CmdError> {
+async fn fetch_html(link: &str) -> Result<String, fantoccini::error::CmdError> {
     let mut c = build_webdriver(HOST_LINK)
         .await
-        .expect("failed to connect to WebDriver");
+        .expect("Failed to connect to geckodriver: Geckodriver should be running.");
     c.goto(link).await?;
     c.wait_for_find(fantoccini::Locator::Css(".build-card-list"))
         .await?;
@@ -30,16 +30,16 @@ pub async fn fetch_html(link: &str) -> Result<String, fantoccini::error::CmdErro
     Ok(page_data)
 }
 
+/// Hold data from build cards.
 pub struct BuildCard {
     pub name: String,
     pub description: String,
     pub link: String,
 }
 
-pub async fn get_god_build_list(link: &str) -> Vec<BuildCard> {
-    let page = fetch_html(link)
-        .await
-        .expect("Unable to fetch data from smite source");
+/// Get a list of god build cards.
+pub async fn get_god_build_list(link: &str) -> Result<Vec<BuildCard>, fantoccini::error::CmdError> {
+    let page = fetch_html(link).await?;
     let soup = Soup::new(&page);
 
     let mut build_cards: Vec<BuildCard> = vec![];
@@ -66,5 +66,5 @@ pub async fn get_god_build_list(link: &str) -> Vec<BuildCard> {
         });
     }
 
-    build_cards
+    Ok(build_cards)
 }

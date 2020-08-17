@@ -1,13 +1,13 @@
-use serde_json::{Result, Value};
+use reqwest;
+use serde_json::Value;
 use smite_api_library::json;
 use smite_api_library::queries::QueryBuilder;
 
 const GOD_JSON_DIR: &str = "resources/gods.json";
 
 /// Download the god data into a .json file for use with other functions.
-pub fn store_god_json(builder: &QueryBuilder) -> Result<()> {
-    // TODO: Handle this
-    let data = builder.get_gods().unwrap();
+pub fn store_god_json(builder: &QueryBuilder) -> Result<(), reqwest::Error> {
+    let data = builder.get_gods()?;
 
     let _ = json::write_string_to_file(GOD_JSON_DIR, data).unwrap();
 
