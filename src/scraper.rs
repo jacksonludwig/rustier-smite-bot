@@ -10,7 +10,8 @@ const HOST_LINK: &str = "http://localhost:4444";
 /// Connect to the geckodriver process and enable headless mode.
 async fn build_webdriver(link: &str) -> Result<Client, fantoccini::error::NewSessionError> {
     let mut cap = Capabilities::new();
-    let args = json!({"args": ["-headless"]});
+    // let args = json!({"args": ["-headless"]});
+    let args = json!({"args": [""]});
     cap.insert("moz:firefoxOptions".to_string(), args);
     let client = Client::with_capabilities(link, cap).await?;
     Ok(client)
@@ -75,7 +76,7 @@ pub async fn get_god_build_cards(
     Ok(build_cards)
 }
 
-/// Get a given build type given a god's build card.
+/// Get a given build type given a god's build card and the HTML class to look for.
 async fn get_god_build(
     card: BuildCard,
     class: &str,
@@ -94,6 +95,38 @@ async fn get_god_build(
         .collect::<Vec<String>>();
 
     Ok(items)
+}
+
+/// Get a god's explanation given their build card.
+pub async fn get_god_explanation(card: BuildCard) -> Result<String, fantoccini::error::CmdError> {
+    let link = card.link;
+    let page = fetch_html(&link, ".explanation").await?;
+    let soup = Soup::new(&page);
+
+    let explanation = soup
+        .class("explanation")
+        .find()
+        .expect("Missing explanation tag")
+        .tag("p")
+        .find()
+        .expect("Missing inner explanation")
+        .text();
+
+    Ok(explanation)
+}
+
+/// Get a god's relics given their build card.
+pub async fn get_god_relics(card: BuildCard) -> Result<Vec<String>, fantoccini::error::CmdError> {
+    let link = card.link;
+    let page = fetch_html(&link, ".relic").await?;
+    let soup = Soup::new(&page);
+
+    let mut relics: Vec<String> = vec![];
+    for (_, item) in soup.class("relic").find_all().enumerate() {
+        relics.push(item.tag("p").find().unwrap().text());
+    }
+
+    Ok(relics)
 }
 
 /// Get a god's starter build given their build card.

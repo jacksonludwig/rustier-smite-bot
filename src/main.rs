@@ -8,8 +8,8 @@ async fn main() {
         .await
         .unwrap();
 
-    let starter = scraper::get_final_god_build(builds_for_god.pop().unwrap())
+    let build = scraper::get_god_explanation(builds_for_god.pop().unwrap())
         .await
         .unwrap();
-    println!("{:?}", starter);
+    println!("{:?}", build);
 }
