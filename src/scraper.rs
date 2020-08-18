@@ -1,5 +1,6 @@
 use fantoccini::Client;
 use serde_json::json;
+use serde::{Serialize, Deserialize};
 use soup::prelude::*;
 use soup::Soup;
 use webdriver::capabilities::Capabilities;
@@ -21,6 +22,7 @@ async fn fetch_html(
     link: &str,
     wait_for_item: &str,
 ) -> Result<String, fantoccini::error::CmdError> {
+    println!("Beggining fetch for link: {}", link);
     let mut c = build_webdriver(HOST_LINK)
         .await
         .expect("Failed to connect to geckodriver: Geckodriver should be running.");
@@ -30,10 +32,12 @@ async fn fetch_html(
     let page_data = c.source().await?;
 
     c.close().await?;
+    println!("Finished fetch for link: {}", link);
     Ok(page_data)
 }
 
 /// Hold data from build cards.
+#[derive(Serialize, Deserialize)]
 pub struct BuildCard {
     pub name: String,
     pub description: String,
