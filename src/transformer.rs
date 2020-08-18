@@ -68,40 +68,24 @@ impl SingleGodCardHolder {
     }
 }
 
-#[derive(Serialize, Deserialize)]
-pub struct AllGodCardHolder {
-    all_cards: Vec<SingleGodCardHolder>,
-}
-
-impl AllGodCardHolder {
-    pub fn new() -> Self {
-        let all_cards: Vec<SingleGodCardHolder> = vec![];
-        AllGodCardHolder { all_cards }
-    }
-
-    pub fn add_holder(&mut self, single: SingleGodCardHolder) {
-        self.all_cards.push(single);
-    }
-}
-
 /// Use the Vec of all gods to create a struct of AllGodCardHolder. This contains a list of all god cards
 /// associated with a specific god id in a concise fashion to use with serde.
 /// God and Link vector will always be the same size.
-pub async fn make_god_cards(gods: Vec<God>) -> Result<AllGodCardHolder, fantoccini::error::CmdError> {
+pub async fn make_god_cards(gods: Vec<God>) -> Result<Vec<SingleGodCardHolder>, fantoccini::error::CmdError> {
     let links = make_god_links(gods.clone());
-    let mut all_holder = AllGodCardHolder::new();
+    let mut all_holder: Vec<SingleGodCardHolder> = vec![];
 
     for i in  0..links.len() {
         let id = gods[i].id.clone();
         let cards = scraper::get_god_build_cards(&links[i]).await?;
         let holder = SingleGodCardHolder::new(id, cards);
-        all_holder.add_holder(holder);
+        all_holder.push(holder);
     }
 
     Ok(all_holder)
 }
 
-pub fn store_god_cards(all_holder: AllGodCardHolder) {
+pub fn store_god_cards(all_holder: Vec<SingleGodCardHolder>) {
     let data = serde_json::to_string(&all_holder).unwrap();
     json::write_string_to_file(CARDS_JSON_DIR, data).unwrap();
 }
