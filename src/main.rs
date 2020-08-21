@@ -5,7 +5,8 @@ mod transformer;
 async fn main() {
     let cards = transformer::load_god_cards();
     for c in cards {
-        println!("{}", c.cards[0].name);
+        let build = transformer::get_full_build(c.cards[0].clone()).await.unwrap();
+        println!("{:?}\n{:?}\n{:?}\n{}", build.starter, build.relics, build.ending, build.explanation);
     }
     println!("done");
 }

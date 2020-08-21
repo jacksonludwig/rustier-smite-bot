@@ -98,3 +98,19 @@ pub fn load_god_cards() -> Vec<SingleGodCardHolder> {
     let cards: Vec<SingleGodCardHolder> = serde_json::from_str(&data).unwrap();
     cards
 }
+
+pub struct FullBuild {
+    pub starter: Vec<String>,
+    pub relics: Vec<String>,
+    pub ending: Vec<String>,
+    pub explanation: String,
+}
+
+/// Get the full god build given a build card.
+pub async fn get_full_build(card: BuildCard) -> Result<FullBuild, fantoccini::error::CmdError> {
+    let starter = scraper::get_starter_god_build(card.clone()).await?;
+    let relics = scraper::get_god_relics(card.clone()).await?;
+    let ending = scraper::get_final_god_build(card.clone()).await?;
+    let explanation = scraper::get_god_explanation(card).await?;
+    Ok(FullBuild {starter, relics, ending, explanation})
+}
