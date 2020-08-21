@@ -1,6 +1,6 @@
 use fantoccini::Client;
+use serde::{Deserialize, Serialize};
 use serde_json::json;
-use serde::{Serialize, Deserialize};
 use soup::prelude::*;
 use soup::Soup;
 use webdriver::capabilities::Capabilities;
@@ -37,7 +37,7 @@ async fn fetch_html(
 }
 
 /// Hold data from build cards.
-#[derive(Serialize, Deserialize)]
+#[derive(Clone, Serialize, Deserialize)]
 pub struct BuildCard {
     pub name: String,
     pub description: String,
@@ -144,4 +144,19 @@ pub async fn get_final_god_build(
     card: BuildCard,
 ) -> Result<Vec<String>, fantoccini::error::CmdError> {
     get_god_build(card, "build-items").await
+}
+
+pub struct FullBuild {
+    pub starter: Vec<String>,
+    pub relics: Vec<String>,
+    pub ending: Vec<String>,
+    pub explanation: String,
+}
+
+pub async fn get_full_build(card: BuildCard) -> Result<FullBuild, fantoccini::error::CmdError> {
+    let starter = get_starter_god_build(card.clone()).await?;
+    let relics = get_god_relics(card.clone()).await?;
+    let ending = get_final_god_build(card.clone()).await?;
+    let explanation = get_god_explanation(card).await?;
+    Ok(FullBuild {starter, relics, ending, explanation})
 }

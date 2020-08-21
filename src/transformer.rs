@@ -1,6 +1,6 @@
 use reqwest;
-use serde_json::Value;
 use serde::{Deserialize, Serialize};
+use serde_json::Value;
 use smite_api_library::json;
 use smite_api_library::queries::QueryBuilder;
 
@@ -55,11 +55,10 @@ fn make_god_links(gods: Vec<God>) -> Vec<String> {
         .collect()
 }
 
-
 #[derive(Serialize, Deserialize)]
 pub struct SingleGodCardHolder {
-    id: String,
-    cards: Vec<BuildCard>,
+    pub id: String,
+    pub cards: Vec<BuildCard>,
 }
 
 impl SingleGodCardHolder {
@@ -71,11 +70,13 @@ impl SingleGodCardHolder {
 /// Use the Vec of all gods to create a struct of AllGodCardHolder. This contains a list of all god cards
 /// associated with a specific god id in a concise fashion to use with serde.
 /// God and Link vector will always be the same size.
-pub async fn make_god_cards(gods: Vec<God>) -> Result<Vec<SingleGodCardHolder>, fantoccini::error::CmdError> {
+pub async fn make_god_cards(
+    gods: Vec<God>,
+) -> Result<Vec<SingleGodCardHolder>, fantoccini::error::CmdError> {
     let links = make_god_links(gods.clone());
     let mut all_holder: Vec<SingleGodCardHolder> = vec![];
 
-    for i in  0..links.len() {
+    for i in 0..links.len() {
         let id = gods[i].id.clone();
         let cards = scraper::get_god_build_cards(&links[i]).await?;
         let holder = SingleGodCardHolder::new(id, cards);
@@ -85,7 +86,15 @@ pub async fn make_god_cards(gods: Vec<God>) -> Result<Vec<SingleGodCardHolder>, 
     Ok(all_holder)
 }
 
+/// Take the vector of all god cards and store them in a json file.
 pub fn store_god_cards(all_holder: Vec<SingleGodCardHolder>) {
     let data = serde_json::to_string(&all_holder).unwrap();
     json::write_string_to_file(CARDS_JSON_DIR, data).unwrap();
+}
+
+/// Load cards from a json file.
+pub fn load_god_cards() -> Vec<SingleGodCardHolder> {
+    let data = json::read_file_to_string(CARDS_JSON_DIR).unwrap();
+    let cards: Vec<SingleGodCardHolder> = serde_json::from_str(&data).unwrap();
+    cards
 }
