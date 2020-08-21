@@ -20,7 +20,6 @@ pub fn store_god_json(builder: &QueryBuilder) -> Result<(), reqwest::Error> {
     Ok(())
 }
 
-#[derive(Clone)]
 pub struct God {
     pub name: String,
     pub id: String,
@@ -49,7 +48,7 @@ pub fn make_god_list() -> Vec<God> {
 }
 
 /// Get all of the links from a Vec of Gods.
-fn make_god_links(gods: Vec<God>) -> Vec<String> {
+fn make_god_links(gods: &Vec<God>) -> Vec<String> {
     gods.iter()
         .map(|g| format!("{}{}", BASE_LINK, g.id))
         .collect()
@@ -71,15 +70,15 @@ impl SingleGodCardHolder {
 /// associated with a specific god id in a concise fashion to use with serde.
 /// God and Link vector will always be the same size.
 pub async fn make_god_cards(
-    gods: Vec<God>,
+    gods: &Vec<God>,
 ) -> Result<Vec<SingleGodCardHolder>, fantoccini::error::CmdError> {
-    let links = make_god_links(gods.clone());
+    let links = make_god_links(gods);
     let mut all_holder: Vec<SingleGodCardHolder> = vec![];
 
     for i in 0..links.len() {
-        let id = gods[i].id.clone();
+        let id = &gods[i].id;
         let cards = scraper::get_god_build_cards(&links[i]).await?;
-        let holder = SingleGodCardHolder::new(id, cards);
+        let holder = SingleGodCardHolder::new(id.to_string(), cards);
         all_holder.push(holder);
     }
 
@@ -107,10 +106,10 @@ pub struct FullBuild {
 }
 
 /// Get the full god build given a build card.
-pub async fn get_full_build(card: BuildCard) -> Result<FullBuild, fantoccini::error::CmdError> {
-    let starter = scraper::get_starter_god_build(card.clone()).await?;
-    let relics = scraper::get_god_relics(card.clone()).await?;
-    let ending = scraper::get_final_god_build(card.clone()).await?;
+pub async fn get_full_build(card: &BuildCard) -> Result<FullBuild, fantoccini::error::CmdError> {
+    let starter = scraper::get_starter_god_build(card).await?;
+    let relics = scraper::get_god_relics(card).await?;
+    let ending = scraper::get_final_god_build(card).await?;
     let explanation = scraper::get_god_explanation(card).await?;
     Ok(FullBuild {starter, relics, ending, explanation})
 }

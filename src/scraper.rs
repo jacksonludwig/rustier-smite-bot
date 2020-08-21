@@ -37,7 +37,7 @@ async fn fetch_html(
 }
 
 /// Hold data from build cards.
-#[derive(Clone, Serialize, Deserialize)]
+#[derive(Serialize, Deserialize)]
 pub struct BuildCard {
     pub name: String,
     pub description: String,
@@ -81,10 +81,10 @@ pub async fn get_god_build_cards(
 
 /// Get a given build type given a god's build card and the HTML class to look for.
 async fn get_god_build(
-    card: BuildCard,
+    card: &BuildCard,
     class: &str,
 ) -> Result<Vec<String>, fantoccini::error::CmdError> {
-    let link = card.link;
+    let link = &card.link;
     let page = fetch_html(&link, ".build-item").await?;
     let soup = Soup::new(&page);
 
@@ -101,8 +101,8 @@ async fn get_god_build(
 }
 
 /// Get a god's explanation given their build card.
-pub async fn get_god_explanation(card: BuildCard) -> Result<String, fantoccini::error::CmdError> {
-    let link = card.link;
+pub async fn get_god_explanation(card: &BuildCard) -> Result<String, fantoccini::error::CmdError> {
+    let link = &card.link;
     let page = fetch_html(&link, ".explanation").await?;
     let soup = Soup::new(&page);
 
@@ -119,8 +119,8 @@ pub async fn get_god_explanation(card: BuildCard) -> Result<String, fantoccini::
 }
 
 /// Get a god's relics given their build card.
-pub async fn get_god_relics(card: BuildCard) -> Result<Vec<String>, fantoccini::error::CmdError> {
-    let link = card.link;
+pub async fn get_god_relics(card: &BuildCard) -> Result<Vec<String>, fantoccini::error::CmdError> {
+    let link = &card.link;
     let page = fetch_html(&link, ".relic").await?;
     let soup = Soup::new(&page);
 
@@ -134,14 +134,14 @@ pub async fn get_god_relics(card: BuildCard) -> Result<Vec<String>, fantoccini::
 
 /// Get a god's starter build given their build card.
 pub async fn get_starter_god_build(
-    card: BuildCard,
+    card: &BuildCard,
 ) -> Result<Vec<String>, fantoccini::error::CmdError> {
     get_god_build(card, "starter").await
 }
 
 /// Get a god's final build given their build card.
 pub async fn get_final_god_build(
-    card: BuildCard,
+    card: &BuildCard,
 ) -> Result<Vec<String>, fantoccini::error::CmdError> {
     get_god_build(card, "build-items").await
 }
