@@ -145,4 +145,3 @@ pub async fn get_final_god_build(
 ) -> Result<Vec<String>, fantoccini::error::CmdError> {
     get_god_build(card, "build-items").await
 }
-

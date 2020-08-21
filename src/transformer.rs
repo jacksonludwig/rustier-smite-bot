@@ -9,6 +9,7 @@ use super::scraper::BuildCard;
 
 const GOD_JSON_DIR: &str = "resources/gods.json";
 const CARDS_JSON_DIR: &str = "resources/cards.json";
+const BUILDS_JSON_DIR: &str = "resources/builds.json";
 const BASE_LINK: &str = "https://smitesource.com/gods/";
 
 /// Download the god data into a .json file for use with other functions.
@@ -98,7 +99,9 @@ pub fn load_god_cards() -> Vec<SingleGodCardHolder> {
     cards
 }
 
+#[derive(Serialize, Deserialize)]
 pub struct FullBuild {
+    pub link: String,
     pub starter: Vec<String>,
     pub relics: Vec<String>,
     pub ending: Vec<String>,
@@ -107,9 +110,23 @@ pub struct FullBuild {
 
 /// Get the full god build given a build card.
 pub async fn get_full_build(card: &BuildCard) -> Result<FullBuild, fantoccini::error::CmdError> {
+    let link = card.link.to_string();
     let starter = scraper::get_starter_god_build(card).await?;
     let relics = scraper::get_god_relics(card).await?;
     let ending = scraper::get_final_god_build(card).await?;
     let explanation = scraper::get_god_explanation(card).await?;
-    Ok(FullBuild {starter, relics, ending, explanation})
+    Ok(FullBuild {
+        link,
+        starter,
+        relics,
+        ending,
+        explanation,
+    })
+}
+
+/// Save ALL of the god builds into a json file.
+/// NOTE: This will take a long time.
+pub fn store_god_builds(all_builds: Vec<FullBuild>) {
+    let data = serde_json::to_string(&all_builds).unwrap();
+    json::write_string_to_file(BUILDS_JSON_DIR, data).unwrap();
 }

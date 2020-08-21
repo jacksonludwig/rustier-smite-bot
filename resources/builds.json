@@ -1,0 +1,4376 @@
+[
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Genji's Guard",
+            "Void Shield",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3492/builds/2d5ed1ad-4900-431e-8777-6aa8296fabb4"
+    },
+    {
+        "explanation": "Get brawlers beatstick if they have ANY healing over the crusher.\n\nSell boots for mantle or titans bane",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Jotunn's Wrath",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Magi's Cloak"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads Upgrade"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/3492/builds/5798b5da-33e8-46bd-b85f-28be629f585a"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1737/builds/f64d2e93-092d-4aa0-815c-7967c89bf3a1"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1956/builds/7f6fcd96-07a2-482a-97fa-1a4bd18a5766"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1956/builds/a28313c4-25b8-4227-8247-d3915d79e96e"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1956/builds/dc6a5c07-6795-4e85-9bb8-67fe0ee361dc"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/2056/builds/6770e98e-f117-4f0c-98ec-c4467400eb2a"
+    },
+    {
+        "explanation": "Invade strat. Start boots 2  and run at speed or gank duo or gank mid at level 1.  Sell boots for mantle of discord",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Toxic Blade",
+            "Frostbound Hammer",
+            "Runic Shield",
+            "Pridwen"
+        ],
+        "relics": [
+            "Horrific Emblem",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Combat Boots",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2110/builds/58ce34ac-7056-4c12-b8b8-6b594a24a91f"
+    },
+    {
+        "explanation": "Sell boots for Mantle of Discord",
+        "ending": [
+            "Ninja Tabi",
+            "The Sledge",
+            "Berserker's Shield",
+            "Shogun's Kusari",
+            "Void Shield",
+            "Toxic Blade"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2110/builds/78f8e780-999e-4f77-9145-2a907391931a"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1773/builds/601341b5-2e61-4dd9-91ef-b7b7d2a2cb6e"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1773/builds/c4f5cdc0-0142-40e9-8a93-0181eb770adb"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine after Spear of the magus and then sell boots for Rod",
+        "ending": [
+            "Bancroft's Talon",
+            "Shoes of the Magi",
+            "Spear of the Magus",
+            "Typhon's Fang",
+            "Soul Reaver",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Talon Trinket",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1668/builds/12e8ae5e-bf68-433b-bd5e-4683e3c1b13e"
+    },
+    {
+        "explanation": "Sell boots for Obsidian shard or if you need anti heal sell boots for Toxic blade",
+        "ending": [
+            "Shoes of Focus",
+            "Ring of Hecate",
+            "Spear of the Magus",
+            "Telkhines Ring",
+            "Typhon's Fang",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Emerald Ring",
+            "Healing Potion",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/2034/builds/3dd531d1-fc53-4b8f-8cdf-bc5d817bc192"
+    },
+    {
+        "explanation": "Sell boots for Obsidian Shard\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Rod of Tahuti",
+            "Chronos' Pendant"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Mana Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1898/builds/0e9cd5c0-3ac9-4671-a521-1924430462bc"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1899/builds/4943f63e-4c8c-4cc2-95a7-9b28286dbad6"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1899/builds/c6de903f-820d-4256-9bd2-27257690bc36"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1899/builds/dc46d28e-e4ab-4995-a0e5-67dec72cbd96"
+    },
+    {
+        "explanation": "You will be starting with no potions. Drop 3 webs on blue buff before the game starts. Clear speed with your mid using NO spiders. Run directly to mid lane, blink on the mid laner, try to kill DO not dive the tower, go directly to their red buff. Steal red, mids, and then do your own buffs.\n\n",
+        "ending": [
+            "Golden Blade",
+            "Serrated Edge",
+            "Stone Cutting Sword",
+            "Qin's Sais",
+            "Atalanta's Bow",
+            "Hastened Katana"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Katana",
+            "Hand of the Gods",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1699/builds/19afa3bb-2369-4714-8548-32e3aeca32f9"
+    },
+    {
+        "explanation": "Sell boots for void shard or more defense",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Binding",
+            "Void Stone",
+            "Breastplate of Valor",
+            "Spear of the Magus",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Druid Stone",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/1782/builds/410d69ce-12e7-404c-aa05-74d6d983b899"
+    },
+    {
+        "explanation": "Aggressive high damage support build that allows your teammates to do more damage, but you will die faster.\n\nSell boots for Spirit robe",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Binding",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Spear of the Magus",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1782/builds/5ccedb9a-1220-4e94-ba0f-e3d0e39ba600"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1748/builds/1d4ee495-1643-451b-b19e-41ba6adb6e8a"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1748/builds/a571a8bb-1eed-4065-b89d-3734adcfe437"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1748/builds/a9f84b82-49fe-45fa-adad-8aa6fedc71b7"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1748/builds/ecdfe88a-d659-4800-b7e3-bd824231268e"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Magic Shell"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1919/builds/28143316-baf8-4584-a294-5c5df8ddf939"
+    },
+    {
+        "explanation": "Sell boots for void shard or more defense\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Binding",
+            "Void Stone",
+            "Breastplate of Valor",
+            "Soul Reaver",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Druid Stone",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/1919/builds/82c71b17-b4d3-458a-b99d-36e9643a50d4"
+    },
+    {
+        "explanation": "Sell boots for soul reaver. Also can grab more damage if you want to snowball more just drop spirit robe for spear of desolation/ob shard",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Binding",
+            "Void Stone",
+            "Ethereal Staff",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Druid Stone",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1919/builds/860b2ba5-1cb9-4b0e-9eef-75d79de61a6e"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1919/builds/8937b88c-ae76-4458-ab05-fcc8c4a427f7"
+    },
+    {
+        "explanation": "Sell boots for Atalanta's Bow, Mantle of Discord, OR Bloodforge.\n\nGet brawlers beatstick INSTEAD of crusher if the enemy team has healing of any kind.\n\n",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Hydra's Lament",
+            "Arondight",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/2037/builds/71a88b70-498c-474f-b70d-f306e0f53611"
+    },
+    {
+        "explanation": "Sell boots for chronos pendant",
+        "ending": [
+            "Book of Thoth",
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Warlock's Staff",
+            "Soul Gem",
+            "Soul Reaver"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Spellbook",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/3925/builds/9b077be5-f41d-464b-bbbb-26862fb995a6"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1809/builds/0923d964-5e17-439b-badb-fc2373842d6c"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Magic Shell"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1809/builds/75e6f6f3-0a7a-4f52-a8a8-48afed91e887"
+    },
+    {
+        "explanation": "Sell boots for more burst and get a Soul Reaver",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Spirit Robe",
+            "Ethereal Staff",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1809/builds/ffa48f3f-cb9e-4a7c-82bb-7ed8a5c31314"
+    },
+    {
+        "explanation": "Sell boots for Atalanta's Bow",
+        "ending": [
+            "Golden Blade",
+            "Ninja Tabi",
+            "Hastened Katana",
+            "Qin's Sais",
+            "Stone Cutting Sword",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Katana",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/1755/builds/4a4c996f-7e38-495c-a16e-82a977e83563"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/3518/builds/5da21a77-00a9-4c19-8680-29e4a82ba5a0"
+    },
+    {
+        "explanation": "Sell boots for Bloodforge or Mantle of Discord",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Jotunn's Wrath",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Morningstar",
+            "Healing Potion",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/1678/builds/955bc022-78ef-4ded-a8ad-37bdc2377bd9"
+    },
+    {
+        "explanation": "Sell boots for Mantle of Discord",
+        "ending": [
+            "Ninja Tabi",
+            "The Sledge",
+            "Berserker's Shield",
+            "Void Shield",
+            "Shogun's Kusari",
+            "Toxic Blade"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Shield of Thorns"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Round Shield",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2047/builds/b51a58fb-246e-4a8f-9eea-cacac2d306e8"
+    },
+    {
+        "explanation": "Sell boots for Rod of Tahuti",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of Desolation",
+            "Ethereal Staff",
+            "Polynomicon",
+            "Soul Reaver",
+            "Obsidian Shard"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2008/builds/1beecd4c-3144-4ccd-a1be-ac3328428548"
+    },
+    {
+        "explanation": "Sell boots for Soul Reaver",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Binding",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2008/builds/264fc86a-15f5-4134-8d4f-19ee48e73586"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2008/builds/aa7e541d-963e-490f-b45d-cb47cb541d06"
+    },
+    {
+        "explanation": "Sell boots for Staff of Myrddin",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Binding",
+            "Void Stone",
+            "Ethereal Staff",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Druid Stone",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2008/builds/d54283ce-a95a-44d3-8b31-95bb50010934"
+    },
+    {
+        "explanation": "Sell boots for Atalantas bow, bloodforge, or Mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Hydra's Lament",
+            "Arondight",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/2189/builds/6e50edd4-f001-4394-b3d6-2df41a2cb8d3"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/3419/builds/9897af04-7715-4747-8914-ae91823a4826"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2268/builds/1058aaea-3230-4d5c-9ac9-02e4f136337c"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2268/builds/55b1f7d5-0818-42ab-aa25-3c64c22d4e70"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2268/builds/a2bb67ce-f21e-4e2e-986f-adc0a02bfb66"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Genji's Guard",
+            "Void Shield",
+            "Talisman of Energy"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1966/builds/7a346035-a48b-4dd0-8096-4d8c23a78545"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1921/builds/1361e3c8-895b-4788-9dac-51d0e706efd4"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3509/builds/1fa4ba3a-8a7a-436f-b349-ea9af501f96c"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3509/builds/7a05d7ec-d125-4d27-82ce-1fee24bf13b7"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3509/builds/8b102c96-102c-479f-8037-2a0386d7facb"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3509/builds/972efd3e-58dc-44ac-ae04-ae934c85fe72"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2075/builds/748aaa4a-4c5b-4828-a7ca-794564a4a894"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2075/builds/9264593a-35c4-496d-9a2a-4726353609c6"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2075/builds/9d5f1e74-d455-4b70-a0b8-b2cceb20c9bb"
+    },
+    {
+        "explanation": "Sell boots for Hastened Ring",
+        "ending": [
+            "Shoes of Focus",
+            "Ring of Hecate",
+            "Spear of the Magus",
+            "Typhon's Fang",
+            "Telkhines Ring",
+            "Demonic Grip"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Emerald Ring",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1920/builds/a652679b-9f66-411a-beaa-0ae34842d734"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Gaia",
+            "Breastplate of Valor",
+            "Void Stone",
+            "Ethereal Staff",
+            "Oni Hunter's Garb"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Shoes"
+        ],
+        "link": "https://smitesource.com/gods/3945/builds/2bd1b9a0-3d2a-4c3e-b6f6-18c1e7c9bf3d"
+    },
+    {
+        "explanation": "Sell boots for more defense, if you are stomping go more damage and get an Ethereal Staff. Then sell stone of binding for Soul Reaver",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Binding",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Void Stone",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/3945/builds/c3e34a21-7fd8-45ae-a4dc-22e452742b54"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Stone of Gaia",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Spirit Robe"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2319/builds/876495bf-4b8b-49fb-8233-e7fdb9451661"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1778/builds/2e78988f-da7c-4e2e-b24e-99b1d0399cfe"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1778/builds/524b5da1-0438-4c3f-b624-192a31efb98a"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1778/builds/f2079051-eb8c-4fc1-b6ad-6da0be3edde0"
+    },
+    {
+        "explanation": "Sell boots for Atalantas bow, bloodforge, or Mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/2270/builds/cd77ed7e-8225-40a3-9de2-af420a6159f8"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/3377/builds/d282c469-9ea6-417f-8bda-ce24ed794008"
+    },
+    {
+        "explanation": "health and multi to finish starter.\n\nSell boots for anti heal or for emporer's armor to help push/defend.",
+        "ending": [
+            "Reinforced Greaves",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Pridwen",
+            "Magi's Cloak",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Boots",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2138/builds/029544f0-e8bd-4ad3-85e0-5053da66fdb9"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Stone of Gaia",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Spirit Robe"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2138/builds/f8a8575b-ec44-41f6-a7e6-e30350b2a7bb"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2136/builds/3fe71587-0743-47d1-87b6-ffe0f84fb55c"
+    },
+    {
+        "explanation": "Sell boots for Atalantas bow, bloodforge, or Mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Jotunn's Wrath",
+            "Spirit Robe",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/1843/builds/85110ca3-79d4-4d1d-9de5-3ddcc5227c7d"
+    },
+    {
+        "explanation": "Sell boots for Typhon's Fang",
+        "ending": [
+            "Shoes of Focus",
+            "Ring of Hecate",
+            "Spear of the Magus",
+            "Hastened Ring",
+            "Demonic Grip",
+            "Telkhines Ring"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Emerald Ring",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1784/builds/7f4cb5ab-e48d-4e0c-83ca-50521a4ce3c0"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2269/builds/e3b6af4d-50c8-4026-8d4d-8243dfcd6bba"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1978/builds/87aeab20-0d99-468e-9a98-ab64fe5c7f2e"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1763/builds/84346afb-81e8-4550-80f5-f6699ba348e5"
+    },
+    {
+        "explanation": "Sell boots for magi's cloak if you need to not be locked down or build bloodforge for more damage.",
+        "ending": [
+            "Warrior Tabi",
+            "Brawler's Beat Stick",
+            "Jotunn's Wrath",
+            "Transcendence",
+            "Shifter's Shield",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1763/builds/c045c587-8b6c-4bfd-9fc4-b618d17db752"
+    },
+    {
+        "explanation": "Sell boots for relic dagger, spirit robe, or shifters shield if you need more damage.",
+        "ending": [
+            "Warrior Tabi",
+            "Blackthorn Hammer",
+            "Void Shield",
+            "Ancile",
+            "Mantle of Discord",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Cudgel",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1763/builds/fccb1fd6-a8d0-4eb6-af20-cf30d7285ab6"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3344/builds/25573f5c-a29d-4c1c-9620-9c06d4f16d87"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3344/builds/9249240b-e8f2-442f-b346-2b044c0d719a"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3344/builds/a2286138-1732-4ac0-837f-b9890c7d8fb2"
+    },
+    {
+        "explanation": "Sell boots for titan's bane if tanks are your main target. Sell boots for deathbringer if squishies(junglers/hunters/mages) are the target. \n\nIf dying sell boots for mantle of discord.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Rage",
+            "The Executioner",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3344/builds/cef2c6e5-49a4-4a9e-81eb-50608116c615"
+    },
+    {
+        "explanation": "Sell boots for Ethereal Staff or pur defense like a spirit robe",
+        "ending": [
+            "Bancroft's Talon",
+            "Shoes of the Magi",
+            "Typhon's Fang",
+            "Spear of the Magus",
+            "Pridwen",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Talon Trinket",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1676/builds/9199841d-f5b0-49b4-8045-c7b60905689d"
+    },
+    {
+        "explanation": "Sell boots for Obsidian shard or mantle of discord if dying quickly.\n\n",
+        "ending": [
+            "Bancroft's Talon",
+            "Shoes of the Magi",
+            "Spear of the Magus",
+            "Typhon's Fang",
+            "Soul Reaver",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Talon Trinket",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1676/builds/b59411ee-c90c-46a8-9b69-0e01ef341edb"
+    },
+    {
+        "explanation": "Get Divine Ruin if they have any healing get divine after Spear of the Magus and then sell boots for Rod.\n\nSell boots for Void Shard if you need pen or get chronos pendant for cooldown/spaming\n\n",
+        "ending": [
+            "Bancroft's Talon",
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Typhon's Fang",
+            "Soul Reaver",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Talon Trinket",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1674/builds/ef5a4ab5-dbf1-42ca-be86-5ad882c4dfc5"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3812/builds/002b87a7-02e1-4760-a32e-4e65694deab8"
+    },
+    {
+        "explanation": "Sell boots for bloodforge or mantle of discord.\n\n",
+        "ending": [
+            "Transcendence",
+            "Warrior Tabi",
+            "The Crusher",
+            "Jotunn's Wrath",
+            "Heartseeker",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Charged Morningstar",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/3812/builds/7f07a822-7eff-4e44-b39c-7a5937a432a3"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3812/builds/8b19cf2d-077f-4f98-88f4-4201bc041c4b"
+    },
+    {
+        "explanation": "Sell boots for titan's bane if tanks are your main target. Sell boots for deathbringer if squishies(junglers/hunters/mages) are the target. \n\nIf dying sell boots for mantle of discord.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Rage",
+            "The Executioner",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3812/builds/c0becf22-bc36-4d67-9fdb-1e70345807cb"
+    },
+    {
+        "explanation": "Plays well with self peel. Has extremely high damage with burst and sustain. \n\nSell boots for bloodforge or mantle of discord",
+        "ending": [
+            "Ninja Tabi",
+            "The Crusher",
+            "Jotunn's Wrath",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/3812/builds/d3068ec3-d9de-4f23-85d7-d05142c8d5dd"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3812/builds/ddd12102-885b-4af2-8d3b-fa8f1e203943"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1718/builds/1bf4ad0a-555f-48ab-b12c-c9eed1491eed"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Stone of Gaia",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Spirit Robe"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1848/builds/91c1fabf-28b4-4619-834e-cf65d426ffeb"
+    },
+    {
+        "explanation": "Sell boots for Defense",
+        "ending": [
+            "Warrior Tabi",
+            "The Sledge",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Pridwen",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Boots",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3611/builds/47a7eebd-505a-4842-be4c-3090e0537503"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2040/builds/83251972-f891-4a43-98a8-fc82884a3d32"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2040/builds/c0258949-9b65-4846-bcd9-31669087a574"
+    },
+    {
+        "explanation": "Sell boots for Atalantas bow, bloodforge, or Mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Jotunn's Wrath",
+            "Hydra's Lament",
+            "Arondight",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/1673/builds/5a9cc75a-64cf-499e-a9a5-ae5e0bc07e5f"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1918/builds/37327ddb-31bf-49ac-9dd3-0dcd6e450cec"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2179/builds/7f923993-3ee0-4674-9e6d-4a8240f7c073"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2179/builds/958bbd58-9c89-4b5a-8df3-cd7bdbab5f3f"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2179/builds/d575abcf-26a5-447f-b404-bb59dd82efe5"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1999/builds/9527cbc6-5100-48ed-a622-7b0c09347574"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2122/builds/1ee3e19b-1a5b-4e23-826c-7b3a0ceb7721"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2122/builds/d5946c27-e710-4d48-b64b-8dce03d51199"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/3585/builds/0c348273-5d0d-4743-a579-165bcffa532b"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/3585/builds/c54606e8-393e-4db5-ad0d-947186c51d91"
+    },
+    {
+        "explanation": "Damage",
+        "ending": [
+            "Jade Emperor's Crown",
+            "Shoes of the Magi",
+            "Stone of Binding",
+            "Ethereal Staff",
+            "Mantle of Discord",
+            "Gem of Isolation"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/3585/builds/edc07780-0a22-4acf-ab7a-6f0467051938"
+    },
+    {
+        "explanation": "Sell boots for Ichaival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Hastened Katana",
+            "Qin's Sais",
+            "Atalanta's Bow",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Round Shield",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/1649/builds/9545f487-02d7-4b22-aa62-f01a53725315"
+    },
+    {
+        "explanation": "Sell boots for shoguns/spirit robe",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Oni Hunter's Garb",
+            "Relic Dagger",
+            "Pridwen",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Shoes"
+        ],
+        "link": "https://smitesource.com/gods/2066/builds/ff99ee60-07e4-4bad-b555-2fd7e2d13f7d"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Stone of Gaia",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Spirit Robe"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3565/builds/c70ab4d2-8b8b-4917-a4f9-aeeb7d1d7af7"
+    },
+    {
+        "explanation": "Sell boots for Rod of tahuti",
+        "ending": [
+            "Book of Thoth",
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Polynomicon",
+            "Soul Reaver",
+            "Obsidian Shard"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Book of Souls",
+            "Healing Potion",
+            "Mana Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1677/builds/4d1d661a-88ec-4d15-ac34-5aede1b6e1f4"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1993/builds/ee0e481c-7f1c-4f17-b759-dff42a4246c8"
+    },
+    {
+        "explanation": "If it is heavy magic damage on the enemy team swap out sovereignty for heartward.\n\nIf the enemy team has healing make sure to get anti heal over relic dagger or spirit robe depending on how much healing they have get it earlier. ",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Sovereignty",
+            "Relic Dagger",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1993/builds/ffc4da24-2464-4f11-b73f-95ac8be67439"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2260/builds/397d7876-c4e7-480d-92d6-70f1930da795"
+    },
+    {
+        "explanation": "If it is heavy magic damage on the enemy team swap out sovereignty for heartward.\n\nIf the enemy team has healing make sure to get anti heal over relic dagger or spirit robe depending on how much healing they have get it earlier. ",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Sovereignty",
+            "Relic Dagger",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2260/builds/4e7f2094-1a26-4cd8-b902-87dea134507e"
+    },
+    {
+        "explanation": "Sell boots for Mantle of Discord or Bloodforge.",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/1797/builds/3af7d0d6-ad15-42d5-8a65-27cec3a0a854"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord or bloodforge. Get brawlers beatstick INSTEAD of crusher if the enemy team has healing of any kind.\n\n",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/1797/builds/96999de0-cb50-4a50-91cc-b4c037319444"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2051/builds/22794379-3ad4-4567-8d90-8b3db7920013"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2051/builds/300769fa-4391-4737-b271-5c1d6442af91"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2051/builds/ce3262d3-391b-4ddb-89d6-400a48ba2a6e"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2051/builds/d07acf10-1594-4212-8f7f-c271181ec8ca"
+    },
+    {
+        "explanation": "Sell boots for atalantas bow, bloodforge or asi(your pref), or get defense.\n\nAtalantas is nuts.\n\n",
+        "ending": [
+            "Golden Blade",
+            "Ninja Tabi",
+            "Stone Cutting Sword",
+            "Rage",
+            "Deathbringer",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Katana",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/1941/builds/238cb1fb-ff2b-41aa-82d6-a2d1ac4d190a"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/3566/builds/59b46924-0131-48c0-a832-026c719ff292"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3881/builds/e0d1a3f9-43c8-4ae1-8eb3-da369041e228"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord, magi's cloak, OR more damage like a shifters shield, bloodforge, brawlers beatstick.\n\nMake sure to get brawlers over crusher if the other team has any healing.",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Hydra's Lament",
+            "Arondight",
+            "Heartseeker",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/3881/builds/ebdd73d4-e6bb-4455-b08f-b2f8067406db"
+    },
+    {
+        "explanation": "Sell boots for Atalantas bow, bloodforge, or Mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/1915/builds/3f67a08b-5171-4abb-aa82-a8005423f85b"
+    },
+    {
+        "explanation": "Max out on health/multi pots. Sell boots for winged blade or shoguns\n\n",
+        "ending": [
+            "Warrior Tabi",
+            "Gauntlet of Thebes",
+            "Shield of Regrowth",
+            "Relic Dagger",
+            "Mantle of Discord",
+            "Magi's Cloak"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Boots",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1915/builds/614f3bbe-8813-4ffd-80d9-23262b79e192"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1872/builds/a73ad109-d577-4146-acee-5a1cd668c25a"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1872/builds/ddb54d2d-ea59-450a-ad4b-2d0b77aa6d8b"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1872/builds/dfe5b4bf-164a-420f-8f91-ee66a722c8e0"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1872/builds/fbc73d91-b3a8-4ccf-8f97-4b7057d77932"
+    },
+    {
+        "explanation": "Buy movement speed pot after Qins",
+        "ending": [
+            "Golden Blade",
+            "Hastened Katana",
+            "Stone Cutting Sword",
+            "Serrated Edge",
+            "Atalanta's Bow",
+            "Qin's Sais"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Katana",
+            "Hand of the Gods",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1980/builds/9d71ef2e-5e9a-40d2-b791-f8d80458938f"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Stone of Gaia",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Spirit Robe"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2214/builds/828b5fc2-37a9-4105-8ac7-0afbd0227e08"
+    },
+    {
+        "explanation": "Sell boots for spirit robe or for Titan's bane",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Void Shield",
+            "Heartseeker",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/2214/builds/b89612fa-39ef-4009-a1b6-09fab17766ca"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/2036/builds/21cee451-5fe2-42d6-b8dd-9613f01296df"
+    },
+    {
+        "explanation": "Hybrid will be used for your aggressive guardians, specially when you want to be doing more in the early and mid game in terms of damage.\n\nSell boots for spirit robe and make sure if anti heal is needed you get it over relic dagger or ethereal staff.",
+        "ending": [
+            "Shoes of Focus",
+            "Stone of Binding",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Ethereal Staff",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2036/builds/e8ad2bb1-c10a-416a-be8e-1e36a9b77219"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1958/builds/1d6e5e37-5c14-4f40-9c3a-fccf5390fcf5"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord or bloodforge.\n\nGet brawlers beatstick INSTEAD of crusher if the enemy team has healing of any kind.",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Hydra's Lament",
+            "Arondight",
+            "Heartseeker",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/1669/builds/1542af80-daec-4a0d-b074-55c2bdf19c3d"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1669/builds/6d594d53-7497-4ffe-99cc-7fbe93d255b4"
+    },
+    {
+        "explanation": "Sell boots for Hastened Ring",
+        "ending": [
+            "Shoes of Focus",
+            "Ring of Hecate",
+            "Spear of the Magus",
+            "Typhon's Fang",
+            "Telkhines Ring",
+            "Demonic Grip"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Emerald Ring",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3664/builds/42a46d95-eaad-48f2-aa4b-cbc7b7db6bba"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2000/builds/2507f325-2351-4c5a-ad3d-b3120bd87d71"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord or bloodforge. \n\nGet brawlers beatstick INSTEAD of crusher if the enemy team has healing of any kind.\n\n",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Soul Eater",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/3543/builds/c32b9338-c85a-459c-9a9d-03f7da97415f"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/3705/builds/0abcbde2-87dd-45e8-bfb3-82ae6116f192"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1881/builds/3659ef51-6d0b-4573-95a1-a47b11b41c0d"
+    },
+    {
+        "explanation": "Sell boots for Hastened Ring",
+        "ending": [
+            "Shoes of Focus",
+            "Ring of Hecate",
+            "Spear of the Magus",
+            "Telkhines Ring",
+            "Demonic Grip",
+            "Typhon's Fang"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Emerald Ring",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1881/builds/c8f7f5db-5c5f-41d8-8375-d6ead80023a2"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1698/builds/61cf69a3-a199-4234-a676-d1c30566a233"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/2113/builds/2d899c9b-38ec-4f9b-ab07-40b1b7b1af71"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Berserker's Shield",
+            "Asi",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2002/builds/5fea4a31-82cf-4c66-8a61-06558e6d3464"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2002/builds/8274ccc8-eba7-4611-a80e-b7f30f3c1b18"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2002/builds/bb84c8c2-d69b-44af-b47f-80d8d0f9a160"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2002/builds/dfd92d66-3b40-40a2-8544-458070b35357"
+    },
+    {
+        "explanation": "DO NOT sell acorn. You will keep it all game. You can swap out one of robes for a void shield or even a heartseeker if you are carrying from Support\n\n",
+        "ending": [
+            "Thickbark Acorn",
+            "The Sledge",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Horrific Emblem",
+            "Magic Shell"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/2063/builds/90d97801-7ee9-4795-8a9f-e31fb02090b5"
+    },
+    {
+        "explanation": "Start with rank 2 crit acorn. Finish full crit  acorn as soon as you can.\n\n\nThe combo is to 1 auto, 3 auto, 2 auto OR blink 2, auto, 3 auto, 1 auto. ",
+        "ending": [
+            "Bristlebush Acorn",
+            "Rage",
+            "Deathbringer",
+            "Soul Eater",
+            "Hydra's Lament",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Nettle Acorn",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/2063/builds/d732269a-aaf3-45cd-b585-e26895640cd4"
+    },
+    {
+        "explanation": "DO NOT sell acorn. You will keep it all game.",
+        "ending": [
+            "Thistlethorn Acorn",
+            "The Crusher",
+            "Soul Eater",
+            "Arondight",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/2063/builds/ecfdb7c2-e9cb-4534-91a3-727cafbd23e9"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2065/builds/4099ad47-2661-4f4d-a894-eb802459a91a"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord or atalantas bow. Get brawlers beatstick INSTEAD of crusher if the enemy team has healing of any kind.\n\n",
+        "ending": [
+            "Warrior Tabi",
+            "The Sledge",
+            "The Crusher",
+            "Arondight",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/2065/builds/eee5c85d-3631-4e5e-8b13-6ef2dae0881e"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1988/builds/fef349d8-1dbd-40fb-9af4-89b81280a62d"
+    },
+    {
+        "explanation": "Sell boots for brawlers beatstick or shifter shield.\n",
+        "ending": [
+            "Warrior Tabi",
+            "Blackthorn Hammer",
+            "Void Shield",
+            "Relic Dagger",
+            "Pridwen",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Cudgel",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2005/builds/348db2c4-7550-4e09-998b-aa562f8fd15d"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord or bloodforge. \n\nGet brawlers beatstick INSTEAD of crusher if the enemy team has healing of any kind.\n\n",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Jotunn's Wrath",
+            "Arondight",
+            "Heartseeker",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/2005/builds/7de748b0-6072-49db-b8ef-0c5e5fec10b7"
+    },
+    {
+        "explanation": "Max out on health/multi pots. \n\nSell boots for anti heal, shoguns, or emporer's armor for pushing/defending",
+        "ending": [
+            "Warrior Tabi",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Pridwen",
+            "Magi's Cloak",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Boots",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2005/builds/eb2741ba-3a6d-4613-b61c-b76e99a0b44c"
+    },
+    {
+        "explanation": "Sell boots for mantle. Get magic defense early if against magical solo",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/3612/builds/354fab6e-a0a4-4ee4-b8e0-aaa8d8e7e642"
+    },
+    {
+        "explanation": "Sell boots for bloodforge or mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Jotunn's Wrath",
+            "Hydra's Lament",
+            "Soul Eater",
+            "Heartseeker",
+            "Atalanta's Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Magic Shell"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/3612/builds/4e716cfe-4350-4795-9c2b-81a169fecd2e"
+    },
+    {
+        "explanation": "Sell boots for bloodforge or mantle of discord.\n\n",
+        "ending": [
+            "Transcendence",
+            "Warrior Tabi",
+            "The Crusher",
+            "Jotunn's Wrath",
+            "Heartseeker",
+            "Titan's Bane"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Charged Morningstar",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/2107/builds/a9f5135a-38b0-4201-8c9b-56b71737dbec"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1747/builds/d9af846c-4c1a-4389-b5e8-753e1a7d27ef"
+    },
+    {
+        "explanation": "Sell boots for Hastened Ring",
+        "ending": [
+            "Shoes of Focus",
+            "Ring of Hecate",
+            "Spear of the Magus",
+            "Typhon's Fang",
+            "Telkhines Ring",
+            "Demonic Grip"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Emerald Ring",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/2074/builds/45087f06-2490-40d1-8b54-a72d6832b4f7"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Soul Eater",
+            "The Sledge",
+            "Void Shield",
+            "Oni Hunter's Garb",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1944/builds/3b3c475d-5f90-43f8-a1f0-82b6c07c4883"
+    },
+    {
+        "explanation": "Sell boots for movement speed potion and Titan's bane or bloodforge(if they have little physical defense tanks)",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Hydra's Lament",
+            "Jotunn's Wrath",
+            "Transcendence",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Mace",
+            "Healing Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1944/builds/84842fa1-9da1-40bb-b5bd-509a1e201a8a"
+    },
+    {
+        "explanation": "Sell boots for Mantle of Discord or Bloodforge.",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/2123/builds/40bb1212-7977-4eee-b9a2-a6dd50bc52b5"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Genji's Guard",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2030/builds/19e67ec7-6a93-4cb9-852a-94cbfa4cb80c"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Genji's Guard",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2147/builds/fb0fdbcb-6657-4e3c-83cc-bea49bb15505"
+    },
+    {
+        "explanation": "Sell boots for Mantle of Discord or Bloodforge.",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/1943/builds/8440cb38-e0ec-41b0-a180-41a32a7abbbf"
+    },
+    {
+        "explanation": "Sell boots polynomicon\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/2226/builds/4f5bf5c3-f80b-4198-9cd2-3b34abc8cb25"
+    },
+    {
+        "explanation": "Sell boots for Bloodforge if killing in team fights or sell boots for Mantle of Discord if dying.",
+        "ending": [
+            "Warrior Tabi",
+            "The Crusher",
+            "Arondight",
+            "Hydra's Lament",
+            "Heartseeker",
+            "Serrated Edge"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Healing Potion",
+            "Hand of the Gods",
+            "Mace"
+        ],
+        "link": "https://smitesource.com/gods/1779/builds/86664cd5-c3da-4e67-8eda-7125b9b76b9f"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Void Shield",
+            "Genji's Guard",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1779/builds/93109f34-220b-4542-af0a-b899671e997a"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/2203/builds/0c04106d-10b2-46a2-a965-cd4e3d082280"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Warrior Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Genji's Guard",
+            "Void Shield",
+            "Talisman of Energy"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1924/builds/c1bbe8c7-c7d8-4bb4-954b-ac0deeda42fa"
+    },
+    {
+        "explanation": "Sell boots for titan's bane and make sure you have a 500g red potion to get cap cdr",
+        "ending": [
+            "Ninja Tabi",
+            "Transcendence",
+            "The Crusher",
+            "Hydra's Lament",
+            "Arondight",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Purification Beads"
+        ],
+        "starter": [
+            "Assassin's Blessing",
+            "Morningstar",
+            "Healing Potion",
+            "Healing Potion",
+            "Hand of the Gods"
+        ],
+        "link": "https://smitesource.com/gods/1924/builds/cb1be3be-6309-4ffd-8d83-d10329466546"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1991/builds/1d2b9339-2f23-4edd-835f-6eacaf0b9952"
+    },
+    {
+        "explanation": "Sell boots for deathbringer, Berskers, whatever you need really.",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Fail-not"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1991/builds/792080ef-61de-4efa-a84e-752e2e141d32"
+    },
+    {
+        "explanation": "Sell boots for bloodforge or mantle of discord.\n\n",
+        "ending": [
+            "Transcendence",
+            "Warrior Tabi",
+            "The Crusher",
+            "Jotunn's Wrath",
+            "Heartseeker",
+            "Atalanta's Bow"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Charged Morningstar",
+            "Healing Potion",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1991/builds/c2b611c7-3591-401e-8c79-2df58a828bab"
+    },
+    {
+        "explanation": "Sell boots for more health or defence.\n\nMake sure to get magic defense before void shield if you are against a magical solo laner",
+        "ending": [
+            "Gladiator's Shield",
+            "Warrior Tabi",
+            "Void Shield",
+            "Genji's Guard",
+            "Mantle of Discord",
+            "Heartseeker"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1723/builds/43b3c423-7bde-4669-a6b9-f27fd27392c3"
+    },
+    {
+        "explanation": "Sell boots for mantle of discord",
+        "ending": [
+            "Ninja Tabi",
+            "Breastplate of Valor",
+            "The Sledge",
+            "Talisman of Energy",
+            "Toxic Blade",
+            "Stone Cutting Sword"
+        ],
+        "relics": [
+            "Teleport Glyph",
+            "Blink Rune"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1723/builds/e6b7bca1-07d2-45de-b2bb-e366f9b3fa84"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1869/builds/7a699319-5b46-4509-848f-71dee4b5deb8"
+    },
+    {
+        "explanation": "Sell boots for Ichival",
+        "ending": [
+            "Ninja Tabi",
+            "Devourer's Gauntlet",
+            "Atalanta's Bow",
+            "Qin's Sais",
+            "Silverbranch Bow",
+            "Berserker's Shield"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1864/builds/e176ea33-42c1-4ed5-ba48-07331992f2f4"
+    },
+    {
+        "explanation": "Sell boots for Beserkers Shield, Mantle of dying a lot, or deathbringer for big boy crits",
+        "ending": [
+            "Devourer's Gauntlet",
+            "Ninja Tabi",
+            "Atalanta's Bow",
+            "Rage",
+            "Wind Demon",
+            "Poisoned Star "
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Hunter's Blessing",
+            "Spiked Gauntlet",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1864/builds/eceeaae3-f260-47f0-af6c-ad4a75d5e410"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2072/builds/3749553c-3c7f-4910-a9bf-4e428adb9b7c"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2072/builds/422a4998-ff4c-4c69-ba12-7317dea7a358"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Magic Shell"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/2072/builds/5a0fa9ee-c2dc-43a7-b88f-e20d04891213"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Lotus Crown",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/3811/builds/aaf26d3a-a41d-492a-87d9-6fcf44ab5a8d"
+    },
+    {
+        "explanation": "Sell boots for Shogun's or Ethereal Staff\n\n",
+        "ending": [
+            "Shoes of Focus",
+            "Gauntlet of Thebes",
+            "Relic Dagger",
+            "Oni Hunter's Garb",
+            "Spirit Robe",
+            "Mantle of Discord"
+        ],
+        "relics": [
+            "Blink Rune",
+            "Belt of Frenzy"
+        ],
+        "starter": [
+            "Guardian's Blessing",
+            "Glowing Emerald",
+            "Healing Potion",
+            "Healing Potion",
+            "Multi Potion",
+            "Healing Potion"
+        ],
+        "link": "https://smitesource.com/gods/1670/builds/c2285344-55d6-4863-b9d8-b276acd714da"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1672/builds/b7c7f6c5-1a09-4f06-98d8-9b0d706c6219"
+    },
+    {
+        "explanation": "Sell boots for obsidian shard if they are tanky(check magic def having 200+) otherwise go for chronos pendant to get more spam while pushing/fighting at fire giant.\n\nIf they have healing get divine instead of Spear of desolation",
+        "ending": [
+            "Shoes of Focus",
+            "Spear of the Magus",
+            "Spear of Desolation",
+            "Soul Reaver",
+            "Soul Gem",
+            "Rod of Tahuti"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Mage's Blessing",
+            "Magic Focus",
+            "Healing Potion",
+            "Healing Potion",
+            "Mana Potion"
+        ],
+        "link": "https://smitesource.com/gods/1926/builds/988e1b47-d0dc-4152-8f21-e6c1d55aeb22"
+    },
+    {
+        "explanation": "Sell boots for more damage if you are living(gem of iso, divine ruin, etc) or more defense if dying(spirit robe, winged blade, etc)",
+        "ending": [
+            "Shoes of the Magi",
+            "Pythagorem's Piece",
+            "Typhon's Fang",
+            "Spear of the Magus",
+            "Mantle of Discord",
+            "Ethereal Staff"
+        ],
+        "relics": [
+            "Purification Beads",
+            "Aegis Amulet"
+        ],
+        "starter": [
+            "Warrior's Blessing",
+            "Chalice of Healing",
+            "Multi Potion",
+            "Multi Potion",
+            "Multi Potion"
+        ],
+        "link": "https://smitesource.com/gods/1926/builds/9d43c2df-1175-41e0-8cc7-1e88338346f3"
+    }
+]
