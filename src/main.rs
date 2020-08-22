@@ -1,18 +1,13 @@
 mod scraper;
 mod transformer;
 
-use transformer::FullBuild;
+use transformer::BuildFinder;
 
 #[tokio::main]
 async fn main() {
+    let all_gods = transformer::make_god_list();
     let all_cards = transformer::load_god_cards();
-    let mut all_builds: Vec<FullBuild> = vec![];
-    for c in all_cards {
-        for inner in c.cards {
-            let build = transformer::get_full_build(&inner).await.unwrap();
-            all_builds.push(build);
-        }
-    }
-    transformer::store_god_builds(all_builds);
-    println!("done");
+    let all_builds = transformer::load_god_builds();
+
+    let buildfinder = BuildFinder::new(all_gods, all_cards, all_builds);
 }
