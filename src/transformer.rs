@@ -157,22 +157,36 @@ pub struct BuildFinder {
 }
 
 impl BuildFinder {
-    pub fn new(all_gods: Vec<God>, all_cards: Vec<SingleGodCardHolder>, all_builds: Vec<FullBuild>) -> Self {
-        BuildFinder { all_gods, all_cards, all_builds }
+    pub fn new(
+        all_gods: Vec<God>,
+        all_cards: Vec<SingleGodCardHolder>,
+        all_builds: Vec<FullBuild>,
+    ) -> Self {
+        BuildFinder {
+            all_gods,
+            all_cards,
+            all_builds,
+        }
+    }
+
+    /// Get a god's card by their id.
+    pub fn get_cards_by_god_id(&self, id: &str) -> Option<&Vec<BuildCard>> {
+        for cards in &self.all_cards {
+            if cards.id == id {
+                return Some(&cards.cards);
+            }
+        }
+        None
     }
 
     /// Get a build using the link from a build card.
-    pub fn find_build_by_card<'a>(
-        &'a self,
-        card: &BuildCard,
-    ) -> Option<&'a FullBuild> {
+    pub fn find_build_by_card<'a>(&'a self, card: &BuildCard) -> Option<&'a FullBuild> {
         let link = &card.link;
         for b in &self.all_builds {
             if b.link == link.to_string() {
                 return Some(b);
             }
         }
-
-        return None;
+        None
     }
 }
